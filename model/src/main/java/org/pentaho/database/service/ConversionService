@@ -1,3 +1,5 @@
+package org.pentaho.database.service;
+
 public class ConversionService {
 
     public static Integer convert(Object obj) {
